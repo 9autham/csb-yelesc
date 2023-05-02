@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "https://9autham.github.io/csb-yelesc/static/css/main.0a88d7ca.css",
+    "main.js": "https://9autham.github.io/csb-yelesc/static/js/main.3cc82801.js",
+    "static/media/Profile.jpeg": "https://9autham.github.io/csb-yelesc/static/media/Profile.fa1b1981e40222a4ac7a.jpeg",
+    "index.html": "https://9autham.github.io/csb-yelesc/index.html",
+    "main.0a88d7ca.css.map": "https://9autham.github.io/csb-yelesc/static/css/main.0a88d7ca.css.map",
+    "main.3cc82801.js.map": "https://9autham.github.io/csb-yelesc/static/js/main.3cc82801.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a88d7ca.css",
+    "static/js/main.3cc82801.js"
+  ]
+}
